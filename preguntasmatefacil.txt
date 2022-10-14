@@ -1,0 +1,4 @@
+5+5?	10  11	13	0
+¿Qué es un número Par?	Aquel que es divisible por 2	Un numéro que sólo tiene como divisores enteros a él y al 1	Un número que no es divisible por 2	Un número que tiene raíz exacta
+5^2?	25	34	55	50
+10+2/2?	6	4	13	20
